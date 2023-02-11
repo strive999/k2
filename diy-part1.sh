@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 
-sudo git clone https://github.com/Zxilly/UA2F.git package/UA2F
-#sudo git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
+git clone https://github.com/Zxilly/UA2F package/UA2F
+git clone https://github.com/CHN-beta/rkp-ipid package/rkp-ipid
