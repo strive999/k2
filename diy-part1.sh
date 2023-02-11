@@ -19,4 +19,4 @@
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 
 sudo git clone https://github.com/Zxilly/UA2F.git package/UA2F
-sudo git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
+#sudo git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
